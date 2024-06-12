@@ -13441,6 +13441,7 @@
               mission: "Front-end Developer, system analysis and design",
               language: "HTML5, CSS3, JS,...",
               images: "./project3.png",
+              Link: "https://quang2204.github.io/shophoaqua/",
             },
           ]),
           t = (0, e.useRef)([]),
