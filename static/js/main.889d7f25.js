@@ -13274,7 +13274,7 @@
                     ],
                   }),
                   (0, Gr.jsx)("a", {
-                    href: "./democv.pdf",
+                    href: "./cv.pdf",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className: "animation active ",
