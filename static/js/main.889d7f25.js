@@ -13425,7 +13425,7 @@
                 "Back-end Developer, system analysis and design ,Front-end Developer",
               language: "HTML5, CSS3, Php ,AJAX,...",
               images: "./project1.png",
-              Link: "https://home.quangluong.id.vn/",
+              Link: "https://github.com/quang2204/duan.git",
             },
             {
               name: "Quiz Game",
