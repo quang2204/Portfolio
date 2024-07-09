@@ -13273,13 +13273,6 @@
                       (0, Gr.jsx)("span", { children: "Quang" }),
                     ],
                   }),
-                  (0, Gr.jsx)("a", {
-                    href: "./cv.pdf",
-                    target: "_blank",
-                    rel: "noopener noreferrer",
-                    className: "animation active ",
-                    children: "Download My CV",
-                  }),
                 ],
               }),
               (0, Gr.jsx)("div", {
